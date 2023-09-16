@@ -11,7 +11,7 @@
 
 ## ERD
 
-<p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/imam-f-gund/inventory/master/public/images/erd.jog" width="400"></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/imam-f-gund/inventory/master/public/images/erd.jpg" width="400"></a></p>
 
 
 ## Cara Install
