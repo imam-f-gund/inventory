@@ -14,6 +14,10 @@
 ## ERD
 
 <p align="center"><a href="" target="_blank"><img src="https://raw.githubusercontent.com/imam-f-gund/inventory/master/public/images/erd.jpg" width="400"></a></p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> f03d617da679f386dd682ed9b1283827eba6888e
 
 ## Cara Install
 
